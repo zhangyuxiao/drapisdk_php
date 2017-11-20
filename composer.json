@@ -32,9 +32,9 @@
 
     "autoload": {
 
-        "psr-0": {
+        "psr-4": {
 
-            "Jenner\\Zebra\\MessageQueue": "src/"
+            "qingjiuzhubei\\": "src/drapisdk_php"
 
         }
 
