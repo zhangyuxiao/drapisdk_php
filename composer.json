@@ -1,0 +1,43 @@
+{
+
+    "name": "qingjiuzhubei/baidu_drapisdk",
+
+    "description": "baidu keywords",
+
+    "license": "MIT",
+
+    "keywords": ["laravel drapisdk"],
+
+    "version": "1.0.0",
+
+    "authors": [
+
+        {
+
+            "name": "qingjiuzhubei",
+
+            "email": "service@qingjiuzhubei.com"
+
+        }
+
+    ],
+
+    "require": {
+
+        "php": ">=5.3.0"
+
+    },
+
+ 
+
+    "autoload": {
+
+        "psr-0": {
+
+            "Jenner\\Zebra\\MessageQueue": "src/"
+
+        }
+
+    }
+
+}
